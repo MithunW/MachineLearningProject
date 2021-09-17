@@ -124,7 +124,7 @@ Both columns have same values and water_quality column has more details. drop qu
 *	payment_type
 
 ##### construction year
-*	After training the model once, It is observed that the constructio year is contributing to the model at large. So going to do some feature engineering to construction_year
+*	After training the model once, It is observed that the construction year is contributing to the model at large. So going to do some feature engineering to construction_year
 *	Since the construction_year column has high cardinality, going to make it more generalize by changing the year to decades.
 *	After the generalization
 	*	0s 20613 (There were outlier year values equal to 0 and they were replaced with '0'
@@ -149,14 +149,6 @@ Observed that there are lots of unique values in this column, most of them are o
 	* wpt_name
 	* ward
 	* lga
-### Other
-* For the column installer, the names of the values are different due to spelling mistakes, use of upper case letters in different places in the word etc..
-
-* for a example 'District Water Department', 'District water depar','Distric Water Department'
-
-* 'COUN', 'District COUNCIL', 'DISTRICT COUNCIL','District Counci', 'District Council','Council','Counc','District  Council','Distri'
-
-* So replace those words with one unique value.
 
 
 ## Encode Categorical Columns
