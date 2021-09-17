@@ -167,8 +167,11 @@ Observed that there are lots of unique values in this column, most of them are o
 Used these models to train the dataset and get the predictions.
 
 ## Proof of Submission
-![proof_pump_it_up_2](https://user-images.githubusercontent.com/47697151/133602630-b87bee8f-f702-4d0a-893c-56d5e7471d81.PNG)
+![Proof of Submission](https://user-images.githubusercontent.com/46267056/133830261-490022a1-4daa-450f-ac43-772c6dc32aa0.jpg)
+
 
 
 ## Final Rank
-![rank_pump_it_up_2](https://user-images.githubusercontent.com/47697151/133602680-e116f044-b452-45ab-9cf6-d2c3c38217ad.PNG)
+![Final Rank](https://user-images.githubusercontent.com/46267056/133830309-7515cca1-a2de-4899-9e7b-480bba235d6f.jpg)
+
+
