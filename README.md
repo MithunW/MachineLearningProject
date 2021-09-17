@@ -8,11 +8,8 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
 ### Handling missing values
 * Columns with missing values
   *   funder - Who funded the well
-Missing Values = 3635
-count                      55765
-unique                      1897
-top       Government Of Tanzania
-freq                        9084
+      *Missing Values = 3635 count                      55765 unique                      1897 top       Government Of Tanzania freq                        9084
+
 
 
 * funder, installer, public meeting, scheme_management, scheme_name, permit are the columns with null values.
