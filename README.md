@@ -160,7 +160,7 @@ Observed that there are lots of unique values in this column, most of them are o
 * Dropped the redundant columns from the dataset and rest was used as the features for the below models.
 
 ### Standard Normalization
-* Finally standardize the features by bremoving the mean and scaling to unit variance.
+* Finally standardize the features by removing the mean and scaling to unit variance.
 ## 	Model Selection
 * Gradient Boosting Classifier
 * Random Forest Regressor
